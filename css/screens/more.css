@@ -3,7 +3,7 @@
     opacity: 0.6;
 }
 
-.more-screen .icon-row:last-child{
+.more-screen .icon-row.icon-row-2nd{
     width: 45%;
 }
 /* 여기 위쪽은 내가 임으로 만든 코드 */
